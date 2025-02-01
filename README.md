@@ -1,11 +1,5 @@
-## My Project
-
-TODO: Fill this README out!
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
+## Host Distilled Deepseek Models On AWS
+This repo contains examples of serving deepseek distill llama 3.3 70b and variants on Amazon SageMaker
 
 ## Security
 
